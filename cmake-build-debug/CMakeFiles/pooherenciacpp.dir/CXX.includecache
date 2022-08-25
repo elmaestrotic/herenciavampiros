@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/pooherenciacpp/Dracula.cpp
+Dracula.h
+C:/Users/Asus/CLionProjects/pooherenciacpp/Dracula.h
+
+C:/Users/Asus/CLionProjects/pooherenciacpp/Dracula.h
+Vampiro.h
+C:/Users/Asus/CLionProjects/pooherenciacpp/Vampiro.h
+
+C:/Users/Asus/CLionProjects/pooherenciacpp/Vampiro.cpp
+Vampiro.h
+C:/Users/Asus/CLionProjects/pooherenciacpp/Vampiro.h
+iostream
+-
+
+C:/Users/Asus/CLionProjects/pooherenciacpp/Vampiro.h
+string
+-
+
+C:/Users/Asus/CLionProjects/pooherenciacpp/main.cpp
+iostream
+-
+Dracula.h
+C:/Users/Asus/CLionProjects/pooherenciacpp/Dracula.h
+
